@@ -87,7 +87,7 @@ end
 
 -- INPUT MANAGEMENT
 local shuttingDown = false
-local forceInputKey = Enum.KeyCode.DPadDown
+local forceInputKey = Enum.KeyCode.ButtonCenter
 
 local manualHeld = {}
 local sentState = {}
