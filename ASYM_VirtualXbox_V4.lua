@@ -975,7 +975,9 @@ local forceOptions = {
     "ButtonR1",
     "ButtonR2",
     "ButtonL3",
-    "ButtonR3"
+    "ButtonR3",
+    "ButtonCenter",
+    "ButtonBack",
 }
 
 populatePopup(forcePopup,forceOptions,function(name)
